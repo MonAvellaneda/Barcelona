@@ -1,2 +1,2 @@
-# recursos_Barcelona
+# Barcelona
 Lista de recursos tecnológicos en Barcelona 
