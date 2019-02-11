@@ -1,2 +1,5 @@
 # Barcelona
-Lista de recursos tecnológicos en Barcelona 
+Tecnología en Barcelona 
+
+## Personas 
+### [Karma Peiró](https://www.karmapeiro.com/)
