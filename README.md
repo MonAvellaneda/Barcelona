@@ -1,8 +1,8 @@
 # Barcelona
 Tecnología en Barcelona 
 
-## Personas 
-   ## Datos
+## Datos
+### Personas 
 * [Karma Peiró](https://www.karmapeiro.com/) 
 
 ## Empresas  
