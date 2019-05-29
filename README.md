@@ -1,4 +1,4 @@
-#Barcelona
+# Barcelona
 
 >Barcelona es una ciudad pequeña y vibrante repleta de recursos. 
 
@@ -6,8 +6,6 @@
 ## Datos
 
 ------------
-
-
 ### Personas 
 * [Karma Peiró](https://www.karmapeiro.com/) 
 
@@ -31,9 +29,4 @@
 
 * [Albergues, refugios](https://www.barcelonaesmoltmes.cat/es/web/planifica/albergs-i-refugis/-/dades/02LKaKk1povF/cerca/2/false)
 
-
-
 ------------
-
-
-[========]
