@@ -1,6 +1,6 @@
 # Barcelona
 
->Barcelona es una ciudad pequeña y vibrante repleta de recursos. 
+>Barcelona es una ciudad pequeña, hecha a la medida humana,vibrante, repleta de recursos, ambientes, texturas, sabores. 
 
 
 ## Datos
@@ -30,3 +30,8 @@
 * [Albergues, refugios](https://www.barcelonaesmoltmes.cat/es/web/planifica/albergs-i-refugis/-/dades/02LKaKk1povF/cerca/2/false)
 
 ------------
+
+## Texturas, sabores 
+### Pastelería 
+
+* [La Pastisseria](https://lapastisseriabarcelona.com/es/cafeteria-te/#/)
