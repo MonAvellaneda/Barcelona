@@ -1,6 +1,6 @@
 # Barcelona
 
->Barcelona es una ciudad pequeña, hecha a la medida humana,vibrante, repleta de recursos, ambientes, texturas, sabores. 
+>Barcelona es una ciudad pequeña, hecha a la medida humana,vibrante, repleta de recursos, ambientes, texturas y sabores. 
 
 
 ## Datos
